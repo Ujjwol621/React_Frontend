@@ -110,7 +110,7 @@ function App() {
         <div className="content-left">
           <p className="intro">WELCOME TO MY WORLD</p>
           <h1>
-            Hi, I'm <span>Jone Lee</span>
+            Hi, I'm <span>Ujjwol Tamang</span>
             <br />a Professional Coder.
           </h1>
           <p>
